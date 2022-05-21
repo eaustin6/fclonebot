@@ -1,5 +1,5 @@
 
-chmod +x gclone
+chmod +x fclone
 echo "[General]
 path_to_gclone = ./gclone
 telegram_token = $telegram_token
